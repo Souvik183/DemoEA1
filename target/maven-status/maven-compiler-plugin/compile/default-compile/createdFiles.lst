@@ -1,0 +1,3 @@
+com\EA\qa\pages\LoginPage.class
+com\EA\qa\pages\HomePage.class
+com\EA\qa\testbase\TestBase.class
